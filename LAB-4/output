@@ -1,0 +1,38 @@
+main() 
+Enter no. of rows 
+2 
+Enter no. of columns 
+3
+1 0 1
+1 1 0 
+Status : Dirty: 
+|1| 0 1
+1 1 0 
+Cleaned 
+|0| 0 1
+1 1 0 
+Status : Clean 
+0 |0| 1 
+1 1 0 
+Status : Dirty: 
+0 0 |1| 
+1 1 0 
+Cleaned 
+0 0 |0| 
+1 1 0 
+Status : Clean 
+0 0 0 
+1 1 |0| 
+status : Dirty 
+0 0 0 
+1 |1| 0 
+Cleaned 
+0 0 0 
+1 |0| 0 
+status : Dirty 
+0 0 0 
+|1| 0 0 
+Cleaned 
+0 0 0 
+|0| 0 0 
+Status : all states Cleaned
