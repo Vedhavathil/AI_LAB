@@ -1,0 +1,100 @@
+Do you want to play again? (Y/N)y
+-----------------------------------
+Welcome to Tic Tac Toe!
+   |   |
+   |   |  
+   |   |
+-----------
+   |   |
+   |   |  
+   |   |
+-----------
+   |   |
+   |   |  
+   |   |
+Please select a position to place an 'X' (1-9): 1
+   |   |
+ X |   |  
+   |   |
+-----------
+   |   |
+   |   |  
+   |   |
+-----------
+   |   |
+   |   |  
+   |   |
+Computer placed an 'O' in position 7 :
+   |   |
+ X |   |  
+   |   |
+-----------
+   |   |
+   |   |  
+   |   |
+-----------
+   |   |
+ O |   |  
+   |   |
+Please select a position to place an 'X' (1-9): 2
+   |   |
+ X | X |  
+   |   |
+-----------
+   |   |
+   |   |  
+   |   |
+-----------
+   |   |
+ O |   |  
+   |   |
+Computer placed an 'O' in position 3 :
+   |   |
+ X | X | O
+   |   |
+-----------
+   |   |
+   |   |  
+   |   |
+-----------
+   |   |
+ O |   |  
+   |   |
+Please select a position to place an 'X' (1-9): 5
+   |   |
+ X | X | O
+   |   |
+-----------
+   |   |
+   | X |  
+   |   |
+-----------
+   |   |
+ O |   |  
+   |   |
+Computer placed an 'O' in position 8 :
+   |   |
+ X | X | O
+   |   |
+-----------
+   |   |
+   | X |  
+   |   |
+-----------
+   |   |
+ O | O |  
+   |   |
+Please select a position to place an 'X' (1-9): 9
+   |   |
+ X | X | O
+   |   |
+-----------
+   |   |
+   | X |  
+   |   |
+-----------
+   |   |
+ O | O | X
+   |   |
+X's won this time! Good Job!
+Do you want to play again? (Y/N)
